@@ -1,0 +1,21 @@
+{
+    "name": "luren/base",
+    "description": "base && deux 23",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luren",
+            "email": "1012004024@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "BaseModel\\Library":"src/BaseModel/Library"
+        }
+    }
+}
