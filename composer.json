@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BaseModel\\Library":"src/BaseModel/Library"
+            "BaseModel\\Library\\":"src/BaseModel/Library"
         }
     }
 }
